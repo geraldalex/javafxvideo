@@ -29,7 +29,7 @@ public class Main extends Application {
 
 
         Person person2 = new Person();
-        person.setFio("Zelenskiy");
+        person.setFio("Nogu svelo");
         person.setPhone("121212121212");
 
         adressBook.add(person);
